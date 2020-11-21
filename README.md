@@ -7,7 +7,8 @@ I'm Simon and live in Berlin as a Freelance Frontend developer.
 * 📅 Co-organiser of [@IonicBerlin](https://twitter.com/IonicBerlin)
 * 🥰 Enthusiastic about **Ionic**, **Frontend** and **books**
 
-### Contact
+### Reach me
 
 - [@zwacky](https://twitter.com/zwacky)
+- https://wicki.io
 - simon@wicki.io
