@@ -9,7 +9,7 @@ I'm Simon and live in Berlin as a Freelance Frontend developer.
 
 ### Latest Blog Posts 📚
 <!-- BLOG-POST-LIST:START -->
-- [Useful Npx Packages in the Everyday Life of a Developer](https://wicki.io/posts/2021-02-useful-npx-packages/)
+- [Useful Npx Packages for the Developer's Everyday Life](https://wicki.io/posts/2021-02-useful-npx-packages/)
 - [Time to Say Goodbye to Google Fonts](https://wicki.io/posts/2020-11-goodbye-google-fonts/)
 - [My Top 5 Book Recommendations](https://wicki.io/posts/2020-09-my-top-5-book-recommendations/)
 - [Stats and Learnings from Finishing #11 on Product Hunt](https://wicki.io/posts/2020-06-stats-and-learnings-from-finishing-11-on-product-hunt/)
