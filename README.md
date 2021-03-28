@@ -7,7 +7,7 @@ I'm Simon and live in Berlin as a Freelance Frontend developer.
 * 📅 Co-organiser of [@IonicBerlin](https://twitter.com/IonicBerlin)
 * 🥰 Enthusiastic about **Ionic**, **Frontend** and **books**
 
-### Latest Blog Posts 📚
+### Latest Blog Posts ✏️
 <!-- BLOG-POST-LIST:START -->
 - [Useful Npx Packages for the Developer's Everyday Life](https://wicki.io/posts/2021-02-useful-npx-packages/)
 - [Time to Say Goodbye to Google Fonts](https://wicki.io/posts/2020-11-goodbye-google-fonts/)
