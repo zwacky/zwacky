@@ -13,6 +13,6 @@ jobs:
       - uses: actions/checkout@v2
       - uses: zwacky/goodreads-profile-workflow@main
         with:
-          # Replace this URL with your rss feed URL/s
+          # Replace this with your goodreads user id (go to "My Books" on goodreads to see it in the URL)
           goodreads_user_id: "92930971"
           shelf: "currently-reading"
