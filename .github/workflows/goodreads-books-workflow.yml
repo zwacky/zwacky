@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: zwacky/goodreads-profile-workflow@ae3bd79cf2672b92663dc105364293fd4d2dff37
+      - uses: zwacky/goodreads-profile-workflow@main
         with:
           # Replace this URL with your rss feed URL/s
           goodreads_user_id: "92930971"
