@@ -10,6 +10,7 @@ jobs:
     name: Update this repo's README with what you're currently reading
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v2
       - uses: zwacky/goodreads-profile-workflow@main
         with:
           # Replace this URL with your rss feed URL/s
