@@ -17,9 +17,8 @@ I'm Simon and live in Berlin as a Freelance Frontend developer.
 <!-- BLOG-POST-LIST:END -->
 
 ### What I'm currently reading 📚
-<!-- GOODREADS-LIST:START -->
-- [How to Be an Antiracist](https://www.goodreads.com/review/show/3751585511?utm_medium=api&utm_source=rss) by Ibram X. Kendi
-- [How to Avoid a Climate Disaster: The Solutions We Have and the Breakthroughs We Need](https://www.goodreads.com/review/show/3605742166?utm_medium=api&utm_source=rss) by Bill  Gates
-- [Six Easy Pieces: Essentials of Physics Explained by Its Most Brilliant Teacher](https://www.goodreads.com/review/show/3859499958?utm_medium=api&utm_source=rss) by Richard P. Feynman
 - [Kaufen Oder Mieten?](https://www.goodreads.com/review/show/3913215744?utm_medium=api&utm_source=rss) by Gerd Kommer
-<!-- GOODREADS-LIST:END -->
+- [How to Be an Antiracist](https://www.goodreads.com/review/show/3751585511?utm_medium=api&utm_source=rss) by Ibram X. Kendi
+- [Six Easy Pieces: Essentials of Physics Explained by Its Most Brilliant Teacher](https://www.goodreads.com/review/show/3859499958?utm_medium=api&utm_source=rss) by Richard P. Feynman
+- [Obviously Awesome: How to Nail Product Positioning so Customers Get It, Buy It, Love It](https://www.goodreads.com/review/show/3547015114?utm_medium=api&utm_source=rss) by April Dunford
+- [Crime and Punishment](https://www.goodreads.com/review/show/3403073725?utm_medium=api&utm_source=rss) by Fyodor Dostoyevsky
