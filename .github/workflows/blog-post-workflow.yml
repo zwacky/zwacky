@@ -15,3 +15,12 @@ jobs:
        with:
          # Replace this URL with your rss feed URL/s
          feed_list: "https://wicki.io/posts/index.xml"
+ update-readme-with-goodreads-books:
+   name: Update this repo's README with what you're currently reading
+   runs-on: ubuntu-latest
+   steps:
+     - uses: zwacky/goodreads-profile-workflow@main
+       with:
+         # Replace this URL with your rss feed URL/s
+         goodreads_user_id: "92930971"
+         shelf: "currently-reading"
