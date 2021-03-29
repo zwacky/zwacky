@@ -23,9 +23,3 @@ I'm Simon and live in Berlin as a Freelance Frontend developer.
 - [Six Easy Pieces: Essentials of Physics Explained by Its Most Brilliant Teacher](https://www.goodreads.com/review/show/3859499958?utm_medium=api&utm_source=rss) by Richard P. Feynman
 - [Kaufen Oder Mieten?](https://www.goodreads.com/review/show/3913215744?utm_medium=api&utm_source=rss) by Gerd Kommer
 <!-- GOODREADS-LIST:END -->
-
-### Reach me 📬
-
-- [@zwacky](https://twitter.com/zwacky)
-- https://wicki.io
-- simon@wicki.io
