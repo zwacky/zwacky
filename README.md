@@ -18,7 +18,7 @@ I'm Simon and live in Berlin as a Freelance Frontend developer.
 
 ### What I'm currently reading 📚
 <!-- GOODREADS-LIST:START -->
-- [Kaufen Oder Mieten?](https://www.goodreads.com/review/show/3913215744?utm_medium=api&utm_source=rss) by Gerd Kommer (⭐️4.32)
+- [Kaufen Oder Mieten?](https://www.goodreads.com/review/show/3913215744?utm_medium=api&utm_source=rss) by Gerd Kommer (⭐️4.33)
 - [How to Be an Antiracist](https://www.goodreads.com/review/show/3751585511?utm_medium=api&utm_source=rss) by Ibram X. Kendi (⭐️4.37)
 - [Six Easy Pieces: Essentials of Physics Explained by Its Most Brilliant Teacher](https://www.goodreads.com/review/show/3859499958?utm_medium=api&utm_source=rss) by Richard P. Feynman (⭐️4.21)
 <!-- GOODREADS-LIST:END -->
