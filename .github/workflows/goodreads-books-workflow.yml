@@ -27,4 +27,5 @@ jobs:
           goodreads_user_id: "92930971"
           shelf: "read"
           comment_tag_name: "GOODREADS-READ-LIST"
+          max_books_count: "5"
           template: "- [$title]($url) by $author ($my_rating_stars)"
