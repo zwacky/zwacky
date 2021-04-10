@@ -16,9 +16,13 @@ I'm Simon and live in Berlin as a Freelance Frontend developer.
 - ["Hybrid Apps are slow"](https://wicki.io/posts/2019-11-hybrid-apps-are-slow/)
 <!-- BLOG-POST-LIST:END -->
 
-### What I'm currently reading 📚
+### What I'm Currently Reading 📚
 <!-- GOODREADS-LIST:START -->
 - [Kaufen Oder Mieten?](https://www.goodreads.com/review/show/3913215744?utm_medium=api&utm_source=rss) by Gerd Kommer (⭐️4.33)
 - [How to Be an Antiracist](https://www.goodreads.com/review/show/3751585511?utm_medium=api&utm_source=rss) by Ibram X. Kendi (⭐️4.37)
 - [Six Easy Pieces: Essentials of Physics Explained by Its Most Brilliant Teacher](https://www.goodreads.com/review/show/3859499958?utm_medium=api&utm_source=rss) by Richard P. Feynman (⭐️4.21)
 <!-- GOODREADS-LIST:END -->
+
+### Last 5 Books I've Read 🤓
+<!-- GOODREADS-READ-LIST:START -->
+<!-- GOODREADS-READ-LIST:END -->
