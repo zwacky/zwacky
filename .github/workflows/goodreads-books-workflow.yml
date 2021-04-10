@@ -16,3 +16,15 @@ jobs:
           # Replace this with your goodreads user id (go to "My Books" on goodreads to see it in the URL)
           goodreads_user_id: "92930971"
           shelf: "currently-reading"
+  update-readme-with-goodreads-books-read:
+    name: Update this repo's README with the last 5 books you've read
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: zwacky/goodreads-profile-workflow@main
+        with:
+          # Replace this with your goodreads user id (go to "My Books" on goodreads to see it in the URL)
+          goodreads_user_id: "92930971"
+          shelf: "read"
+          comment_tag_name: "GOODREADS-READ-LIST"
+          template: "- [$title]($url) by $author ($my_rating_stars)"
