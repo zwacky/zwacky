@@ -25,4 +25,14 @@ I'm Simon and live in Berlin as a Freelance Frontend developer.
 
 ### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
+- [Obviously Awesome: How to Nail Product Positioning so Customers Get It, Buy It, Love It](https://www.goodreads.com/review/show/3547015114?utm_medium=api&utm_source=rss) by April Dunford (unrated)
+- [Think Again: The Power of Knowing What You Don't Know](https://www.goodreads.com/review/show/3829804130?utm_medium=api&utm_source=rss) by Adam M. Grant (⭐⭐⭐)
+- [1984](https://www.goodreads.com/review/show/2897969649?utm_medium=api&utm_source=rss) by George Orwell (⭐⭐⭐⭐)
+- [How to Avoid a Climate Disaster: The Solutions We Have and the Breakthroughs We Need](https://www.goodreads.com/review/show/3605742166?utm_medium=api&utm_source=rss) by Bill  Gates (⭐⭐⭐⭐⭐)
+- [Uncomfortable Conversations With a Black Man](https://www.goodreads.com/review/show/3617043570?utm_medium=api&utm_source=rss) by Emmanuel Acho (⭐⭐⭐⭐⭐)
+- [Nonzero: The Logic of Human Destiny](https://www.goodreads.com/review/show/2696877863?utm_medium=api&utm_source=rss) by Robert Wright (⭐⭐⭐⭐)
+- [A Promised Land](https://www.goodreads.com/review/show/3819467795?utm_medium=api&utm_source=rss) by Barack Obama (⭐⭐⭐⭐)
+- [Die Macht der Clans: Arabische Großfamilien und ihre kriminellen Imperien - Ein SPIEGEL-Buch](https://www.goodreads.com/review/show/3741706276?utm_medium=api&utm_source=rss) by Thomas Heise (⭐⭐⭐⭐⭐)
+- [The Spy and the Traitor: The Greatest Espionage Story of the Cold War](https://www.goodreads.com/review/show/3684114744?utm_medium=api&utm_source=rss) by Ben Macintyre (⭐⭐⭐⭐⭐)
+- [She Said: Breaking the Sexual Harassment Story That Helped Ignite a Movement](https://www.goodreads.com/review/show/3634946943?utm_medium=api&utm_source=rss) by Jodi Kantor (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
