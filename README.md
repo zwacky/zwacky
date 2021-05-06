@@ -18,6 +18,7 @@ I'm Simon and live in Berlin as a Freelance Frontend developer.
 
 ### What I'm Currently Reading 📚
 <!-- GOODREADS-LIST:START -->
+- [Utopia for Realists: And How We Can Get There](https://www.goodreads.com/review/show/3972577439?utm_medium=api&utm_source=rss) by Rutger Bregman (⭐️4.23)
 - [Range: Why Generalists Triumph in a Specialized World](https://www.goodreads.com/review/show/3475101656?utm_medium=api&utm_source=rss) by David   Epstein (⭐️4.14)
 - [Six Easy Pieces: Essentials of Physics Explained by Its Most Brilliant Teacher](https://www.goodreads.com/review/show/3859499958?utm_medium=api&utm_source=rss) by Richard P. Feynman (⭐️4.21)
 <!-- GOODREADS-LIST:END -->
