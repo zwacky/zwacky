@@ -24,9 +24,9 @@ I'm Simon and live in Berlin as a Freelance Frontend developer.
 
 ### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
+- [Six Easy Pieces: Essentials of Physics Explained by Its Most Brilliant Teacher](https://www.goodreads.com/review/show/3859499958?utm_medium=api&utm_source=rss) by Richard P. Feynman (⭐⭐⭐⭐⭐)
 - [How to Stop Worrying and Start Living](https://www.goodreads.com/review/show/3938728229?utm_medium=api&utm_source=rss) by Dale Carnegie (⭐)
 - [Kaufen Oder Mieten?](https://www.goodreads.com/review/show/3913215744?utm_medium=api&utm_source=rss) by Gerd Kommer (⭐⭐⭐⭐⭐)
 - [How to Be an Antiracist](https://www.goodreads.com/review/show/3751585511?utm_medium=api&utm_source=rss) by Ibram X. Kendi (⭐⭐⭐)
 - [Obviously Awesome: How to Nail Product Positioning so Customers Get It, Buy It, Love It](https://www.goodreads.com/review/show/3547015114?utm_medium=api&utm_source=rss) by April Dunford (unrated)
-- [Think Again: The Power of Knowing What You Don't Know](https://www.goodreads.com/review/show/3829804130?utm_medium=api&utm_source=rss) by Adam M. Grant (⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
