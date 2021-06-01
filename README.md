@@ -18,7 +18,7 @@ I'm Simon and live in Berlin as a Freelance Frontend developer.
 
 ### What I'm Currently Reading 📚
 <!-- GOODREADS-LIST:START -->
-- [The System: Who Rigged It, How We Fix It](https://www.goodreads.com/review/show/3801810472?utm_medium=api&utm_source=rss) by Robert B. Reich (⭐️4.25)
+- [How to Save Our Planet: How to Save Our Planet and Survive the 21st Century](https://www.goodreads.com/review/show/3994089687?utm_medium=api&utm_source=rss) by Mark A Maslin (⭐️4.5)
 - [Range: Why Generalists Triumph in a Specialized World](https://www.goodreads.com/review/show/3475101656?utm_medium=api&utm_source=rss) by David   Epstein (⭐️4.14)
 <!-- GOODREADS-LIST:END -->
 
