@@ -19,7 +19,7 @@ I'm Simon and live in Berlin as a Freelance Frontend developer.
 ### What I'm Currently Reading 📚
 <!-- GOODREADS-LIST:START -->
 - [Freakonomics: A Rogue Economist Explores the Hidden Side of Everything](https://www.goodreads.com/review/show/2697048210?utm_medium=api&utm_source=rss) by Steven D. Levitt (⭐️3.99)
-- [How to Save Our Planet: How to Save Our Planet and Survive the 21st Century](https://www.goodreads.com/review/show/3994089687?utm_medium=api&utm_source=rss) by Mark A Maslin (⭐️4.67)
+- [How to Save Our Planet: How to Save Our Planet and Survive the 21st Century](https://www.goodreads.com/review/show/3994089687?utm_medium=api&utm_source=rss) by Mark A Maslin (⭐️4.62)
 <!-- GOODREADS-LIST:END -->
 
 ### Last 5 Books I've Read 🤓
