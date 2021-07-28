@@ -9,11 +9,11 @@ I'm Simon and live in Berlin as a Freelance Frontend developer.
 
 ### Latest Blog Posts ✏️
 <!-- BLOG-POST-LIST:START -->
+- [How List Rendering Can Cause Huge Cumulative Layout Shift](https://wicki.io/posts/2021-07-list-rendering-cls/)
 - [Core Web Vitals explained with GIFs](https://wicki.io/posts/2021-07-core-web-vitals/)
 - [Pimp Your GitHub Profile with Books You Read](https://wicki.io/posts/2021-04-goodreads-workflow-for-github-actions/)
 - [Useful Npx Packages for the Developer's Everyday Life](https://wicki.io/posts/2021-02-useful-npx-packages/)
 - [Time to Say Goodbye to Google Fonts](https://wicki.io/posts/2020-11-goodbye-google-fonts/)
-- [My Top 5 Book Recommendations](https://wicki.io/posts/2020-09-my-top-5-book-recommendations/)
 <!-- BLOG-POST-LIST:END -->
 
 ### What I'm Currently Reading 📚
