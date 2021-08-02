@@ -18,7 +18,6 @@ I'm Simon and live in Berlin as a Freelance Frontend developer.
 
 ### What I'm Currently Reading 📚
 <!-- GOODREADS-LIST:START -->
-- [The Shortest History of Germany](https://www.goodreads.com/review/show/4130231977?utm_medium=api&utm_source=rss) by James Hawes (⭐️3.74)
 - [Dreyer's English: An Utterly Correct Guide to Clarity and Style](https://www.goodreads.com/review/show/2926200854?utm_medium=api&utm_source=rss) by Benjamin Dreyer (⭐️4.36)
 <!-- GOODREADS-LIST:END -->
 
