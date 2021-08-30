@@ -18,6 +18,8 @@ I'm Simon and live in Berlin as a Freelance Frontend developer.
 
 ### What I'm Currently Reading 📚
 <!-- GOODREADS-LIST:START -->
+- [Unscripted - The Great Rat-Race Escape: From Wage Slavery to Wealth: How to Start a Purpose Driven Business and Win Financial Freedom for a Lifetime](https://www.goodreads.com/review/show/4192306247?utm_medium=api&utm_source=rss) by M.J. DeMarco (⭐️4.56)
+- [The Psychology of Money](https://www.goodreads.com/review/show/4207632849?utm_medium=api&utm_source=rss) by Morgan Housel (⭐️4.35)
 - [Strangers in Their Own Land: Anger and Mourning on the American Right](https://www.goodreads.com/review/show/4082794487?utm_medium=api&utm_source=rss) by Arlie Russell Hochschild (⭐️4.11)
 - [Dreyer's English: An Utterly Correct Guide to Clarity and Style](https://www.goodreads.com/review/show/2926200854?utm_medium=api&utm_source=rss) by Benjamin Dreyer (⭐️4.36)
 <!-- GOODREADS-LIST:END -->
