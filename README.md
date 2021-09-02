@@ -25,9 +25,9 @@ I'm Simon and live in Berlin as a Freelance Frontend developer.
 
 ### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
+- [Strangers in Their Own Land: Anger and Mourning on the American Right](https://www.goodreads.com/review/show/4082794487?utm_medium=api&utm_source=rss) by Arlie Russell Hochschild (⭐⭐⭐⭐⭐)
 - [The Shortest History of Germany](https://www.goodreads.com/review/show/4130231977?utm_medium=api&utm_source=rss) by James Hawes (⭐⭐⭐⭐)
 - [How to Save Our Planet: The Facts](https://www.goodreads.com/review/show/3994089687?utm_medium=api&utm_source=rss) by Mark A. Maslin (⭐⭐)
 - [Freakonomics: A Rogue Economist Explores the Hidden Side of Everything](https://www.goodreads.com/review/show/2697048210?utm_medium=api&utm_source=rss) by Steven D. Levitt (⭐⭐⭐⭐⭐)
 - [How to Lose a Country: The 7 Steps from Democracy to Dictatorship](https://www.goodreads.com/review/show/4047731802?utm_medium=api&utm_source=rss) by Ece Temelkuran (⭐⭐⭐⭐⭐)
-- [American sniper](https://www.goodreads.com/review/show/3255426902?utm_medium=api&utm_source=rss) by Chris Kyle (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
