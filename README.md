@@ -24,9 +24,9 @@ I'm Simon and live in Berlin as a Freelance Frontend developer.
 
 ### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
-- [Unscripted - The Great Rat-Race Escape: From Wage Slavery to Wealth: How to Start a Purpose Driven Business and Win Financial Freedom for a Lifetime](https://www.goodreads.com/review/show/4192306247?utm_medium=api&utm_source=rss) by M.J. DeMarco (⭐⭐⭐⭐⭐)
-- [The Psychology of Money](https://www.goodreads.com/review/show/4207632849?utm_medium=api&utm_source=rss) by Morgan Housel (⭐⭐⭐)
-- [Strangers in Their Own Land: Anger and Mourning on the American Right](https://www.goodreads.com/review/show/4082794487?utm_medium=api&utm_source=rss) by Arlie Russell Hochschild (⭐⭐⭐⭐⭐)
-- [The Shortest History of Germany](https://www.goodreads.com/review/show/4130231977?utm_medium=api&utm_source=rss) by James Hawes (⭐⭐⭐⭐)
-- [How to Save Our Planet: The Facts](https://www.goodreads.com/review/show/3994089687?utm_medium=api&utm_source=rss) by Mark A. Maslin (⭐⭐)
+- [So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love](https://www.goodreads.com/review/show/2944568329?utm_medium=api&utm_source=rss) by Cal Newport (⭐⭐⭐⭐)
+- [Mindset: The New Psychology of Success](https://www.goodreads.com/review/show/2963452259?utm_medium=api&utm_source=rss) by Carol S. Dweck (⭐⭐⭐⭐⭐)
+- [Magic Cleaning 2: Wie Wohnung und Seele aufgeräumt bleiben](https://www.goodreads.com/review/show/2697343551?utm_medium=api&utm_source=rss) by Marie Kondō (⭐⭐⭐⭐)
+- [The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you](https://www.goodreads.com/review/show/2949257048?utm_medium=api&utm_source=rss) by Rob  Fitzpatrick (⭐⭐⭐⭐⭐)
+- [A Promised Land](https://www.goodreads.com/review/show/3819467795?utm_medium=api&utm_source=rss) by Barack Obama (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
