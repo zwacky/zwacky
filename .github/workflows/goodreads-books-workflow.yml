@@ -6,9 +6,19 @@ on:
     # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
   workflow_dispatch:
 jobs:
+  update-readme-with-goodreads-books:
+    name: Update this repo's README with what you're currently reading
+    runs-on: ubuntu-latest
+    strategy:
+      max-parallel: 2
+    steps:
+      - uses: actions/checkout@v2
+      - uses: zwacky/goodreads-profile-workflow@v1.2.1
   update-readme-with-goodreads-books-read:
     name: Update this repo's README with the last 5 books you've read
     runs-on: ubuntu-latest
+    strategy:
+      max-parallel: 2
     steps:
       - uses: actions/checkout@v2
       - uses: zwacky/goodreads-profile-workflow@v1.2.1
