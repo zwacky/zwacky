@@ -6,22 +6,11 @@ on:
     # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
   workflow_dispatch:
 jobs:
-  update-readme-with-goodreads-books:
-    name: Update this repo's README with what you're currently reading
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: zwacky/goodreads-profile-workflow@v1.2.1
-        with:
-          ref: ${{ github.event.pull_request.head.ref }}
   update-readme-with-goodreads-books-read:
     name: Update this repo's README with the last 5 books you've read
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-        with:
-          persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
-          fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
       - uses: zwacky/goodreads-profile-workflow@v1.2.1
         with:
           # Replace this with your goodreads user id (go to "My Books" on goodreads to see it in the URL)
