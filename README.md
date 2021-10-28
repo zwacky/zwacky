@@ -20,7 +20,7 @@ I'm Simon and live in Berlin as a Freelance Frontend developer.
 <!-- GOODREADS-LIST:START -->
 - [The Power of Now: A Guide to Spiritual Enlightenment](https://www.goodreads.com/review/show/3578941359?utm_medium=api&utm_source=rss) by Eckhart Tolle (⭐️4.13)
 - [Antifragile: Things That Gain from Disorder](https://www.goodreads.com/review/show/2947943988?utm_medium=api&utm_source=rss) by Nassim Nicholas Taleb (⭐️4.03)
-- [Dreyer's English: An Utterly Correct Guide to Clarity and Style](https://www.goodreads.com/review/show/2926200854?utm_medium=api&utm_source=rss) by Benjamin Dreyer (⭐️4.36)
+- [Dreyer's English: An Utterly Correct Guide to Clarity and Style](https://www.goodreads.com/review/show/2926200854?utm_medium=api&utm_source=rss) by Benjamin Dreyer (⭐️4.35)
 <!-- GOODREADS-LIST:END -->
 
 ### Last 5 Books I've Read 🤓
