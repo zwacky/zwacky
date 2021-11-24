@@ -25,9 +25,9 @@ I'm Simon and live in Berlin as a Freelance Frontend developer.
 
 ### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
+- [Catch and Kill: Lies, Spies, and a Conspiracy to Protect Predators](https://www.goodreads.com/review/show/3533594579?utm_medium=api&utm_source=rss) by Ronan Farrow (⭐⭐⭐⭐)
 - [So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love](https://www.goodreads.com/review/show/2944568329?utm_medium=api&utm_source=rss) by Cal Newport (⭐⭐⭐⭐)
 - [Mindset: The New Psychology of Success](https://www.goodreads.com/review/show/2963452259?utm_medium=api&utm_source=rss) by Carol S. Dweck (⭐⭐⭐⭐⭐)
 - [Magic Cleaning 2: Wie Wohnung und Seele aufgeräumt bleiben](https://www.goodreads.com/review/show/2697343551?utm_medium=api&utm_source=rss) by Marie Kondō (⭐⭐⭐⭐)
 - [The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you](https://www.goodreads.com/review/show/2949257048?utm_medium=api&utm_source=rss) by Rob  Fitzpatrick (⭐⭐⭐⭐⭐)
-- [A Promised Land](https://www.goodreads.com/review/show/3819467795?utm_medium=api&utm_source=rss) by Barack Obama (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
