@@ -10,7 +10,7 @@ jobs:
     name: Update Twitter header with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: zwacky/twitter-header-blog-posts@main
+      - uses: zwacky/twitter-header-blog-posts-action@main
         with:
           BLOG_RSS: "https://dev.to/feed/zwacky"
         env:
