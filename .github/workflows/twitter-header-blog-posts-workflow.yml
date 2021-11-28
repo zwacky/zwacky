@@ -15,6 +15,8 @@ jobs:
           ls ${{ github.workspace }}
         shell: bash
 
+      - uses: actions/checkout@v2
+
       - uses: zwacky/twitter-header-blog-posts-action@main
         with:
           BLOG_RSS: "https://dev.to/feed/zwacky"
