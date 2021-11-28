@@ -10,6 +10,11 @@ jobs:
     name: Update Twitter header with latest blog posts
     runs-on: ubuntu-latest
     steps:
+      - name: show dir
+        run: |
+          ls ${{ github.workspace }}
+        shell: bash
+
       - uses: zwacky/twitter-header-blog-posts-action@main
         with:
           BLOG_RSS: "https://dev.to/feed/zwacky"
