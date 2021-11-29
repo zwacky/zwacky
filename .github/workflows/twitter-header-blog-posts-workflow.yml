@@ -13,6 +13,7 @@ jobs:
       - uses: zwacky/twitter-header-blog-posts-action@main
         with:
           BLOG_RSS: "https://dev.to/feed/zwacky"
+          DRAW_TEXTS: '[ [\"h1\", "Hey, I'm Simon", 125, 100], ["h1", "My latest blog posts", 835, 70], ["h1", "Follow   and say hi!", 545, 390], ["p", "I tweet about webperf, javascript,", 125, 177], ["p", "my learnings and books.", 125, 212] ]'
         env:
           TWITTER_API_KEY: ${{ secrets.TWITTER_API_KEY }}
           TWITTER_API_SECRET: ${{ secrets.TWITTER_API_SECRET }}
