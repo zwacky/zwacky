@@ -21,7 +21,7 @@ I'm Simon and live in Berlin as a Freelance Frontend developer.
 - [The Unicorn Project](https://www.goodreads.com/review/show/4113792468?utm_medium=api&utm_source=rss) by Gene Kim (⭐️4.06)
 - [The Power of Now: A Guide to Spiritual Enlightenment](https://www.goodreads.com/review/show/3578941359?utm_medium=api&utm_source=rss) by Eckhart Tolle (⭐️4.14)
 - [Dreyer's English: An Utterly Correct Guide to Clarity and Style](https://www.goodreads.com/review/show/2926200854?utm_medium=api&utm_source=rss) by Benjamin Dreyer (⭐️4.35)
-- [Replacing Guilt: Minding Our Way](https://www.goodreads.com/review/show/4222082559?utm_medium=api&utm_source=rss) by Nate Soares (⭐️4.52)
+- [Replacing Guilt: Minding Our Way](https://www.goodreads.com/review/show/4222082559?utm_medium=api&utm_source=rss) by Nate Soares (⭐️4.54)
 <!-- GOODREADS-LIST:END -->
 
 ### Last 5 Books I've Read 🤓
