@@ -21,7 +21,7 @@ I'm Simon and live in Berlin as a Freelance Frontend developer.
 - [Stop Asking Questions: How to Lead High-Impact Interviews and Learn Anything from Anyone](https://www.goodreads.com/review/show/4525495127?utm_medium=api&utm_source=rss) by Andrew Warner (⭐️4.4)
 - [The Power of Now: A Guide to Spiritual Enlightenment](https://www.goodreads.com/review/show/3578941359?utm_medium=api&utm_source=rss) by Eckhart Tolle (⭐️4.15)
 - [Dreyer's English: An Utterly Correct Guide to Clarity and Style](https://www.goodreads.com/review/show/2926200854?utm_medium=api&utm_source=rss) by Benjamin Dreyer (⭐️4.35)
-- [Ikigai: The Japanese Secret to a Long and Happy Life](https://www.goodreads.com/review/show/4457713693?utm_medium=api&utm_source=rss) by Hector Garcia Puigcerver (⭐️3.78)
+- [Ikigai: The Japanese Secret to a Long and Happy Life](https://www.goodreads.com/review/show/4457713693?utm_medium=api&utm_source=rss) by Hector Garcia Puigcerver (⭐️3.79)
 <!-- GOODREADS-LIST:END -->
 
 ### Last 5 Books I've Read 🤓
