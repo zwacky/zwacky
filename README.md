@@ -9,7 +9,7 @@ I'm Simon and live in Berlin as a Freelance Frontend developer.
 
 ### Latest Blog Posts ✏️
 <!-- BLOG-POST-LIST:START -->
-- [Time to Say Goodbye to Google Fonts: Data Privacy and GDPR](https://wicki.io/posts/2022-02-goodbye-google-fonts-data-privacy-gdpr/)
+- [Sued by Using Google Fonts: Data Privacy and GDPR](https://wicki.io/posts/2022-02-goodbye-google-fonts-data-privacy-gdpr/)
 - [An Ode to AngularJS](https://wicki.io/posts/2022-01-an-ode-to-angularjs/)
 - [Interface vs Type Alias in TypeScript—Quick Comparison](https://wicki.io/posts/2022-01-quick-comparison-interface-vs-type-alias/)
 - [One Font Format to Rule Them All: WOFF2](https://wicki.io/posts/2021-11-woff2-one-font-format-to-rule-them-all/)
