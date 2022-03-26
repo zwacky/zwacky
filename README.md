@@ -9,7 +9,7 @@ I'm Simon and live in Berlin as a Freelance Frontend developer.
 
 ### Latest Blog Posts ✏️
 <!-- BLOG-POST-LIST:START -->
-- [CLS: The Hidden Cost of Lazy Loading Components](https://wicki.io/posts/2022-03-hidden-cost-of-lazy-loading/)
+- [The Duality of CLS with Lazy Loading Components](https://wicki.io/posts/2022-03-cls-with-lazy-loading-components/)
 - [Sued by Using Google Fonts: Data Privacy and GDPR](https://wicki.io/posts/2022-02-goodbye-google-fonts-data-privacy-gdpr/)
 - [An Ode to AngularJS](https://wicki.io/posts/2022-01-an-ode-to-angularjs/)
 - [Interface vs Type Alias in TypeScript—Quick Comparison](https://wicki.io/posts/2022-01-quick-comparison-interface-vs-type-alias/)
