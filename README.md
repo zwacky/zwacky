@@ -28,7 +28,7 @@ I'm Simon and live in Berlin as a Freelance Frontend developer.
 <!-- GOODREADS-READ-LIST:START -->
 - [Ikigai: The Japanese Secret to a Long and Happy Life](https://www.goodreads.com/review/show/4457713693?utm_medium=api&utm_source=rss) by Hector Garcia Puigcerver (⭐⭐⭐⭐⭐)
 - [Stop Asking Questions: How to Lead High-Impact Interviews and Learn Anything from Anyone (For Podcasters, Entrepreneurs, Sales, HR, and Journalists)](https://www.goodreads.com/review/show/4525495127?utm_medium=api&utm_source=rss) by Andrew Warner (⭐⭐⭐⭐)
-- [Das einzige Buch, das Du über Finanzen lesen solltest: Der entspannte Weg zum Vermögen](https://www.goodreads.com/review/show/4627249689?utm_medium=api&utm_source=rss) by Thomas Kehl (⭐⭐⭐⭐⭐)
+- [Das einzige Buch, das du über Finanzen lesen solltest: Der entspannte Weg zum Vermögen](https://www.goodreads.com/review/show/4627249689?utm_medium=api&utm_source=rss) by Thomas Kehl (⭐⭐⭐⭐⭐)
 - [The Unicorn Project](https://www.goodreads.com/review/show/4113792468?utm_medium=api&utm_source=rss) by Gene Kim (⭐⭐⭐⭐)
 - [Replacing Guilt: Minding Our Way](https://www.goodreads.com/review/show/4222082559?utm_medium=api&utm_source=rss) by Nate Soares (⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
