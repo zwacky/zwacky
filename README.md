@@ -26,9 +26,9 @@ I'm Simon and live in Berlin as a Freelance Frontend developer.
 
 ### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
+- [Freiberufler: Fit Furs Finanzamt - 3e Buchfuhrung, Rechnungen, Steuern & Co. (German Edition)](https://www.goodreads.com/review/show/5702023693?utm_medium=api&utm_source=rss) by Constanze Elter (⭐⭐⭐⭐⭐)
 - [Wir Datensklaven: Wege aus der digitalen Ausbeutung | Manifest für mehr Freiheits- und Gleichheitsrechte / Wie wir eine demokratische Digitalisierung und ... Integrität erreichen können (German Edition)](https://www.goodreads.com/review/show/5598400569?utm_medium=api&utm_source=rss) by Johannes Caspar (⭐⭐⭐⭐⭐)
 - [Buy Back Your Time: Get Unstuck, Reclaim Your Freedom, and Build Your Empire](https://www.goodreads.com/review/show/5450969717?utm_medium=api&utm_source=rss) by Dan Martell (⭐⭐)
 - [Replacing Guilt: Minding Our Way](https://www.goodreads.com/review/show/4222082559?utm_medium=api&utm_source=rss) by Nate Soares (⭐⭐⭐)
 - [Ikigai: The Japanese Secret to a Long and Happy Life](https://www.goodreads.com/review/show/4457713693?utm_medium=api&utm_source=rss) by Hector Garcia Puigcerver (⭐⭐⭐⭐⭐)
-- [Stop Asking Questions: How to Lead High-Impact Interviews and Learn Anything from Anyone (For Podcasters, Entrepreneurs, Sales, HR, and Journalists)](https://www.goodreads.com/review/show/4525495127?utm_medium=api&utm_source=rss) by Andrew Warner (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
