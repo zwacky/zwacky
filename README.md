@@ -18,6 +18,7 @@ I'm Simon and live in Berlin as a Freelance Frontend developer.
 
 ### What I'm Currently Reading 📚
 <!-- GOODREADS-LIST:START -->
+- [Woke Racism: How a New Religion Has Betrayed Black America](https://www.goodreads.com/review/show/5899584581?utm_medium=api&utm_source=rss) by John McWhorter (⭐️3.9)
 - [The Body: A Guide for Occupants](https://www.goodreads.com/review/show/5732476674?utm_medium=api&utm_source=rss) by Bill Bryson (⭐️4.3)
 - [Secrets of Sand Hill Road: Venture Capital and How to Get It](https://www.goodreads.com/review/show/4717740217?utm_medium=api&utm_source=rss) by Scott Kupor (⭐️4.22)
 - [Letters from a Stoic](https://www.goodreads.com/review/show/3972433721?utm_medium=api&utm_source=rss) by Seneca (⭐️4.35)
