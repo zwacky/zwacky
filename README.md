@@ -20,7 +20,7 @@ I'm Simon and live in Berlin as a Freelance Frontend developer.
 <!-- GOODREADS-LIST:START -->
 - [Als Steuerfahnderin auf der Spur des Geldes: Wie Kriminelle und Fehler im System uns Milliarden kosten | Steuerhinterziehung, Cum-Ex-Deals, Clan-Kriminalität, ... und Corona-Soforthilfen (German Edition)](https://www.goodreads.com/review/show/5998488020?utm_medium=api&utm_source=rss) by Birgit E. Orths (⭐️3.09)
 - [The Body: A Guide for Occupants](https://www.goodreads.com/review/show/5732476674?utm_medium=api&utm_source=rss) by Bill Bryson (⭐️4.3)
-- [Secrets of Sand Hill Road: Venture Capital and How to Get It](https://www.goodreads.com/review/show/4717740217?utm_medium=api&utm_source=rss) by Scott Kupor (⭐️4.22)
+- [Secrets of Sand Hill Road: Venture Capital and How to Get It](https://www.goodreads.com/review/show/4717740217?utm_medium=api&utm_source=rss) by Scott Kupor (⭐️4.23)
 - [Letters from a Stoic](https://www.goodreads.com/review/show/3972433721?utm_medium=api&utm_source=rss) by Seneca (⭐️4.35)
 - [The Power of Now: A Guide to Spiritual Enlightenment](https://www.goodreads.com/review/show/3578941359?utm_medium=api&utm_source=rss) by Eckhart Tolle (⭐️4.16)
 - [Dreyer's English: An Utterly Correct Guide to Clarity and Style](https://www.goodreads.com/review/show/2926200854?utm_medium=api&utm_source=rss) by Benjamin Dreyer (⭐️4.35)
