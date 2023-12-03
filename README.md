@@ -25,9 +25,9 @@ I'm Simon and live in Berlin as a Freelance Frontend developer.
 
 ### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
+- [Dreyer's English: An Utterly Correct Guide to Clarity and Style](https://www.goodreads.com/review/show/2926200854?utm_medium=api&utm_source=rss) by Benjamin Dreyer (unrated)
+- [The Body: A Guide for Occupants](https://www.goodreads.com/review/show/5732476674?utm_medium=api&utm_source=rss) by Bill Bryson (⭐⭐⭐⭐⭐)
 - [Woke Racism: How a New Religion Has Betrayed Black America](https://www.goodreads.com/review/show/5899584581?utm_medium=api&utm_source=rss) by John McWhorter (⭐⭐⭐)
 - [Freiberufler: Fit Furs Finanzamt - 3e Buchfuhrung, Rechnungen, Steuern & Co. (German Edition)](https://www.goodreads.com/review/show/5702023693?utm_medium=api&utm_source=rss) by Constanze Elter (⭐⭐⭐⭐⭐)
 - [Wir Datensklaven: Wege aus der digitalen Ausbeutung | Manifest für mehr Freiheits- und Gleichheitsrechte / Wie wir eine demokratische Digitalisierung und ... Integrität erreichen können (German Edition)](https://www.goodreads.com/review/show/5598400569?utm_medium=api&utm_source=rss) by Johannes Caspar (⭐⭐⭐⭐⭐)
-- [Buy Back Your Time: Get Unstuck, Reclaim Your Freedom, and Build Your Empire](https://www.goodreads.com/review/show/5450969717?utm_medium=api&utm_source=rss) by Dan Martell (⭐⭐)
-- [Replacing Guilt: Minding Our Way](https://www.goodreads.com/review/show/4222082559?utm_medium=api&utm_source=rss) by Nate Soares (⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
