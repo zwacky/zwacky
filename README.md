@@ -18,7 +18,7 @@ I'm Simon and live in Berlin as a Freelance Frontend developer.
 
 ### What I'm Currently Reading 📚
 <!-- GOODREADS-LIST:START -->
-- [Als Steuerfahnderin auf der Spur des Geldes](https://www.goodreads.com/review/show/5998488020?utm_medium=api&utm_source=rss) by Birgit E. Orths (⭐️3.08)
+- [Als Steuerfahnderin auf der Spur des Geldes](https://www.goodreads.com/review/show/5998488020?utm_medium=api&utm_source=rss) by Birgit E. Orths (⭐️3.23)
 - [Letters from a Stoic](https://www.goodreads.com/review/show/3972433721?utm_medium=api&utm_source=rss) by Seneca (⭐️4.34)
 - [The Power of Now: A Guide to Spiritual Enlightenment](https://www.goodreads.com/review/show/3578941359?utm_medium=api&utm_source=rss) by Eckhart Tolle (⭐️4.16)
 <!-- GOODREADS-LIST:END -->
