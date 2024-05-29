@@ -18,8 +18,7 @@ I'm Simon and live in Berlin as a Freelance Frontend developer.
 
 ### What I'm Currently Reading 📚
 <!-- GOODREADS-LIST:START -->
-- [Letters from a Stoic](https://www.goodreads.com/review/show/3972433721?utm_medium=api&utm_source=rss) by Seneca (⭐️4.34)
-- [The Power of Now: A Guide to Spiritual Enlightenment](https://www.goodreads.com/review/show/3578941359?utm_medium=api&utm_source=rss) by Eckhart Tolle (⭐️4.16)
+- [Slicing Pie Handbook European Union Edition](https://www.goodreads.com/review/show/6474033638?utm_medium=api&utm_source=rss) by Mike Moyer (⭐️4)
 <!-- GOODREADS-LIST:END -->
 
 ### Last 5 Books I've Read 🤓
