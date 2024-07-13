@@ -18,6 +18,7 @@ I'm Simon and live in Berlin as a Freelance Frontend developer.
 
 ### What I'm Currently Reading 📚
 <!-- GOODREADS-LIST:START -->
+- [The Startup of You: Adapt to the Future, Invest in Yourself, and Transform Your Career](https://www.goodreads.com/review/show/6625040932?utm_medium=api&utm_source=rss) by Reid Hoffman (⭐️3.81)
 - [Slicing Pie Handbook European Union Edition](https://www.goodreads.com/review/show/6474033638?utm_medium=api&utm_source=rss) by Mike Moyer (⭐️4)
 <!-- GOODREADS-LIST:END -->
 
