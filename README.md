@@ -24,9 +24,9 @@ I'm Simon and live in Berlin as a Freelance Frontend developer.
 
 ### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
+- [You Don’t Have to Be Ruthless to Win: The Art of Badass Selfless Service](https://www.goodreads.com/review/show/2944083276?utm_medium=api&utm_source=rss) by Jonathan Keyser (⭐)
 - [Disrupt Yourself](https://www.goodreads.com/review/show/6023183461?utm_medium=api&utm_source=rss) by Jay Samit (⭐⭐⭐⭐)
 - [Als Steuerfahnderin auf der Spur des Geldes](https://www.goodreads.com/review/show/5998488020?utm_medium=api&utm_source=rss) by Birgit E. Orths (⭐⭐⭐⭐)
 - [Dreyer's English: An Utterly Correct Guide to Clarity and Style](https://www.goodreads.com/review/show/2926200854?utm_medium=api&utm_source=rss) by Benjamin Dreyer (unrated)
 - [The Body: A Guide for Occupants](https://www.goodreads.com/review/show/5732476674?utm_medium=api&utm_source=rss) by Bill Bryson (⭐⭐⭐⭐⭐)
-- [Woke Racism: How a New Religion Has Betrayed Black America](https://www.goodreads.com/review/show/5899584581?utm_medium=api&utm_source=rss) by John McWhorter (⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
