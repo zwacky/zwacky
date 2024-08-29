@@ -19,7 +19,7 @@ I'm Simon and live in Berlin as a Freelance Frontend developer.
 ### What I'm Currently Reading 📚
 <!-- GOODREADS-LIST:START -->
 - [Tracers in the Dark: The Global Hunt for the Crime Lords of Cryptocurrency](https://www.goodreads.com/review/show/6039007284?utm_medium=api&utm_source=rss) by Andy Greenberg (⭐️4.47)
-- [Great Japanese Stories](https://www.goodreads.com/review/show/6742788390?utm_medium=api&utm_source=rss) by Various (⭐️3.78)
+- [Great Japanese Stories](https://www.goodreads.com/review/show/6742788390?utm_medium=api&utm_source=rss) by Various (⭐️3.79)
 - [Masters of Scale: Surprising Truths from the World's Most Successful Entrepreneurs](https://www.goodreads.com/review/show/6725304305?utm_medium=api&utm_source=rss) by Reid Hoffman (⭐️4.04)
 <!-- GOODREADS-LIST:END -->
 
