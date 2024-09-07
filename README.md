@@ -24,9 +24,9 @@ I'm Simon and live in Berlin as a Freelance Frontend developer.
 
 ### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
+- [Tracers in the Dark: The Global Hunt for the Crime Lords of Cryptocurrency](https://www.goodreads.com/review/show/6039007284?utm_medium=api&utm_source=rss) by Andy Greenberg (⭐⭐⭐⭐⭐)
 - [Slicing Pie Handbook European Union Edition](https://www.goodreads.com/review/show/6474033638?utm_medium=api&utm_source=rss) by Mike Moyer (⭐⭐⭐⭐)
 - [The Startup of You: Adapt to the Future, Invest in Yourself, and Transform Your Career](https://www.goodreads.com/review/show/6625040932?utm_medium=api&utm_source=rss) by Reid Hoffman (⭐⭐⭐⭐⭐)
 - [You Don’t Have to Be Ruthless to Win: The Art of Badass Selfless Service](https://www.goodreads.com/review/show/2944083276?utm_medium=api&utm_source=rss) by Jonathan Keyser (⭐)
 - [Disrupt Yourself](https://www.goodreads.com/review/show/6023183461?utm_medium=api&utm_source=rss) by Jay Samit (⭐⭐⭐⭐)
-- [Als Steuerfahnderin auf der Spur des Geldes](https://www.goodreads.com/review/show/5998488020?utm_medium=api&utm_source=rss) by Birgit E. Orths (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
