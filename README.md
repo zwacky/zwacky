@@ -20,7 +20,7 @@ I'm Simon and live in Berlin as a Freelance Frontend developer.
 <!-- GOODREADS-LIST:START -->
 - [Equal Rites (Discworld, #3; Witches, #1)](https://www.goodreads.com/review/show/8118062465?utm_medium=api&utm_source=rss) by Terry Pratchett (⭐️4.06)
 - [Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers](https://www.goodreads.com/review/show/6834829689?utm_medium=api&utm_source=rss) by Andy Greenberg (⭐️4.35)
-- [Great Japanese Stories: 10 Parallel Texts](https://www.goodreads.com/review/show/6742788390?utm_medium=api&utm_source=rss) by Jay Rubin (⭐️3.66)
+- [Great Japanese Stories: 10 Parallel Texts](https://www.goodreads.com/review/show/6742788390?utm_medium=api&utm_source=rss) by Jay Rubin (⭐️3.65)
 - [Masters of Scale: Surprising Truths from the World's Most Successful Entrepreneurs](https://www.goodreads.com/review/show/6725304305?utm_medium=api&utm_source=rss) by Reid Hoffman (⭐️4.04)
 <!-- GOODREADS-LIST:END -->
 
