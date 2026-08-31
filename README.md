@@ -25,9 +25,9 @@ I'm Simon and live in Berlin as a Freelance Frontend developer.
 
 ### Last 5 Books I've Read 🤓
 <!-- GOODREADS-READ-LIST:START -->
+- [Great Japanese Stories: 10 Parallel Texts](https://www.goodreads.com/review/show/6742788390?utm_medium=api&utm_source=rss) by Jay Rubin (⭐⭐⭐)
+- [Crucial Conversations: Tools for Talking When Stakes are High, Third Edition](https://www.goodreads.com/review/show/8677934275?utm_medium=api&utm_source=rss) by Emily Gregory (⭐⭐⭐⭐⭐)
 - [Chatter: The Voice in Our Head, Why It Matters, and How to Harness It](https://www.goodreads.com/review/show/8034390569?utm_medium=api&utm_source=rss) by Ethan Kross (⭐⭐⭐⭐⭐)
 - [The Honjin Murders (Detective Kosuke Kindaichi, #1)](https://www.goodreads.com/review/show/7932419534?utm_medium=api&utm_source=rss) by Seishi Yokomizo (⭐⭐⭐)
 - [Tracers in the Dark: The Global Hunt for the Crime Lords of Cryptocurrency](https://www.goodreads.com/review/show/6039007284?utm_medium=api&utm_source=rss) by Andy Greenberg (⭐⭐⭐⭐⭐)
-- [Slicing Pie Handbook European Union Edition](https://www.goodreads.com/review/show/6474033638?utm_medium=api&utm_source=rss) by Mike Moyer (⭐⭐⭐⭐)
-- [The Startup of You: Adapt to the Future, Invest in Yourself, and Transform Your Career](https://www.goodreads.com/review/show/6625040932?utm_medium=api&utm_source=rss) by Reid Hoffman (⭐⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
