@@ -18,7 +18,7 @@ I'm Simon and live in Berlin as a Freelance Frontend developer.
 
 ### What I'm Currently Reading 📚
 <!-- GOODREADS-LIST:START -->
-- [Equal Rites (Discworld, #3; Witches, #1)](https://www.goodreads.com/review/show/8118062465?utm_medium=api&utm_source=rss) by Terry Pratchett (⭐️4.06)
+- [Equal Rites (Discworld, #3; Witches, #1)](https://www.goodreads.com/review/show/8118062465?utm_medium=api&utm_source=rss) by Terry Pratchett (⭐️4.07)
 - [Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers](https://www.goodreads.com/review/show/6834829689?utm_medium=api&utm_source=rss) by Andy Greenberg (⭐️4.34)
 - [Masters of Scale: Surprising Truths from the World's Most Successful Entrepreneurs](https://www.goodreads.com/review/show/6725304305?utm_medium=api&utm_source=rss) by Reid Hoffman (⭐️4.03)
 <!-- GOODREADS-LIST:END -->
